@@ -1,6 +1,6 @@
 +++
 title = "Soho Theme"
-author = "Hugo Authors"
+author = "Mu/oz"
 +++
 
 Some index content

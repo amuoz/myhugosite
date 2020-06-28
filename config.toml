@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://muoz.dev/"
 languageCode = "en"
-title = "Muoz.dev"
+title = "Mu/oz"
 theme = "soho"
 
 DefaultContentLanguage = "en"
@@ -10,13 +10,13 @@ enableEmoji = true
 paginate = 5
 
 [params]
-author = "Muoz"
-description = "Indie Game Developer. Willing to put in the time and learn from others. Passionate gamer."
+author = "Mu/oz"
+description = "Game developer. Willing to put in the time and learn from others. Passionate gamer."
 # gravatar = "soho@example.com"
 images = ["images/costillas-carnivoras-loop.gif"]
 profilePicture = "images/costillas-carnivoras-loop.gif"
 
-# copyright = "muoz"
+# copyright = "mu/oz"
 # license = "CC BY-SA 4.0"
 # licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = false
@@ -26,15 +26,21 @@ mainSections = ["portfolio"]
 themeColor = "#2C2F64"
 
   ## Set as many as you want.
-  [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "https://www.linkedin.com/in/antonio-munoz-gallego/"
-
+  
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
   url = "https://github.com/amuoz"
+
+  [[params.socialIcons]]
+  icon = "fa-itch-io"
+  title = "muoz.itch.io"
+  url = "https://muoz.itch.io/"
+
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/antonio-munoz-gallego/"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
@@ -44,16 +50,16 @@ themeColor = "#2C2F64"
 [menu]
 
   [[menu.main]]
-  name = "The guts of a gnome"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
-
-  [[menu.main]]
   name = "Portfolio"
   weight = 100
   identifier = "portfolio"
   url = "/portfolio/"
+
+  [[menu.main]]
+  name = "Gnome guts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
 
   [[menu.main]]
   name = "About"
