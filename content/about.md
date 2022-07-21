@@ -28,6 +28,8 @@ Years later I was deciding about my university career. I wanted to make videogam
 
 At the end I quit my job and attended a videogame programming master's degree and finally joined the videogame industry!! For now on I'm just trying to put my skills at players service to make other people feel the same way I have felt.
 
+Lately I have spent A LOT of time playing Sandbox Suvival games. Games like **Ark Survival Evolved**, **The Long Dark**, **Subnautica** and FINALLY tried **Minecraft**.
+
 I had so much to tell that I ended up writing a full *About me extended* in my Gnome guts blog. [If you want to read more check it out here!]({{< ref "posts/about-me-extended.md" >}})
 
 I hope you enjoyed the reading! :D
