@@ -16,4 +16,4 @@ Necrognomicon it's an action-tower defense game, similar to Orcs Must Die, based
 This is the first of a series of blog posts where I will share information about the game and gut the most interesting parts of the development process from a programmer perspective. I will also post other kind of content if I feel is interesting.
 
 
-Welcome to **The guts of a gnome**!
+Welcome to **Gnome guts**!

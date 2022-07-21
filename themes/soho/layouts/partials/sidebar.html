@@ -29,7 +29,7 @@
         -->
         {{ range .Site.Menus.main -}}
         <li>
-          <a href="{{ .URL }}">{{ .Name }}</a>
+          <a href="{{ .URL }}" class="my-menu" >{{ .Name }}</a>
         </li>
         {{- end }}
       </ul>

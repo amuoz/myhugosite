@@ -1,6 +1,6 @@
 baseURL = "https://muoz.dev/"
 languageCode = "en"
-title = "Mu/oz"
+title = "Antonio Muñoz"
 theme = "soho"
 
 DefaultContentLanguage = "en"
@@ -8,15 +8,16 @@ enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
 paginate = 5
+ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [params]
 author = "Mu/oz"
-description = "Game developer. Willing to put in the time and learn from others. Passionate gamer."
+description = "I can visualize my whole life through names of video games. Willing to put in the time and learn from others. Passionate gamer."
 # gravatar = "soho@example.com"
 images = ["images/costillas-carnivoras-loop.gif"]
 profilePicture = "images/costillas-carnivoras-loop.gif"
 
-# copyright = "mu/oz"
+# copyright = "Mu/oz"
 # license = "CC BY-SA 4.0"
 # licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = false
@@ -64,7 +65,7 @@ themeColor = "#2C2F64"
   [[menu.main]]
   name = "About"
   identifier = "about"
-  weight = 300
+  weight = 400
   url = "/about/"
 
 [taxonomies]
